@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>Hi , I'm Jitendra Mewada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"
 </h2>
 
-[![jitu0602's Holopin board](https://holopin.me/jitu0602)](https://holopin.io/@jitu0602)
+
 
 <div align='center'>
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p>Indian Software Developer with a passion for coding and problem-solving. Technology Enthusiast, constantly exploring and learning new technologies. Currently pursuing Master's of Computer Applications at National Institute of Technology, Karnataka.</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=550&background=E7E7E700&vCenter=true&width=800&height=75&lines=Software+Developer;Problem+Seeker;and+a+Technoholic+.;Nice+to+meet+you+..+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=550&background=E7E7E700&vCenter=true&width=800&height=75&lines=Software+Developer;Problem+Solver;and+a+Technoholic+.;Nice+to+meet+you+..+!!)](https://git.io/typing-svg)
 
 <hr>
   
