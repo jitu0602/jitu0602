@@ -26,15 +26,14 @@ Here are some ideas to get you started:
 
  
   <a href="https://www.linkedin.com/in/jitendra-mewada-013994227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitendra-mewada-013994227/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jitendra_mewada632/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra_mewada632" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+  <a href="https://www.instagram.com/jitendra_mewada632/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra_mewada632" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.hackerrank.com/jitendramewadan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jitendramewadan1" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/jitendramewadanimcet2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jitendramewadanimcet2021" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/jitendramewadanimcet2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jitendramewadanimcet2021" height="30" width="40" /></a>
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danishds0&label=Profile%20views&color=0e75b6&style=flat" alt="danishds0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitu0602&label=Profile%20views&color=0e75b6&style=flat" alt="jitu0602" /> </p>
 
 - 🌱 I’m currently learning **Problem Solving, c++**
 
@@ -51,8 +50,7 @@ Here are some ideas to get you started:
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- 
+   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>  
  
