@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jitu0602/jitu0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p>Indian Software Developer with a passion for coding and problem-solving. Technology Enthusiast, constantly exploring and learning new technologies. Currently pursuing Master's of Computer Applications at National Institute of Technology, Karnataka.</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=550&background=E7E7E700&vCenter=true&width=800&height=75&lines=Competitive+Coder;Software+Developer;Problem+Seeker;and+a+Technoholic+.;Nice+to+meet+you+..+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=550&background=E7E7E700&vCenter=true&width=800&height=75&lines=Software+Developer;Problem+Seeker;and+a+Technoholic+.;Nice+to+meet+you+..+!!)](https://git.io/typing-svg)
 
 <hr>
   
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>  
  
@@ -64,12 +64,13 @@ Here are some ideas to get you started:
 </p>
  <h3 align="center">Framwork:</h3>
 <p align="center">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> 
 </p>
   
 <h3 align="center">Database:</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
   
   <hr>
