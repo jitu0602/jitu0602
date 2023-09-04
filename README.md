@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
  <h3 align="center">Framwork:</h3>
 <p align="center">
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="60" height="60"/> 
 </p>
   
 <h3 align="center">Database:</h3>
